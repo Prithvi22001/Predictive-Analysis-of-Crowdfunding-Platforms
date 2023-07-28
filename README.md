@@ -1,0 +1,4 @@
+# Predictive-Analysis-of-Crowdfunding-Platforms
+Analysis of Crowdfunding platform like Kickstarter predicting and classifying projects that would meet their goal.  
+Crowdfunding has gained widespread attention in recent years. There are various crowdfunding platforms most prominent being Kickstarter. Despite the huge success of the crowdfunding platforms, only 1/3rd of the projects succeeds in achieving the desired goal amount. Hence estimating the probability of success is one of the most important research challenges in the crowdfunding domain. Investors would like to invest in projects which can succeed as soon as possible. We aim to create a success prediction model which can help both investors to choose a valuable and potentially successful project and creators by providing them the guidelines on the chance of success.
+
